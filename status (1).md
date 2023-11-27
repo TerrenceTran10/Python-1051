@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Terrence Tran
 
 #### Your section leader's name
 
-TODO
+Elmira
 
 #### Project title
 
-TODO
+Pong!
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+So far I have done a lot of research and watch videos on how to use Pygame. I have also learned how to create the colors and how to make the game run on a different window. 
 
 #### What have you not done for your project yet?
 
-TODO
+I need to implement the game logic and learn how to make the game react to the users input such as hitting the pong ball. 
 
 #### What problems, if any, have you encountered?
 
-TODO
+So far my only issue is learning how to implement all of the pong game logic properly. I have made some mistakes but I am getting better at fixing them. 
